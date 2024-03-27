@@ -11,4 +11,4 @@ The approach in [3] is an extension of the approach of [1] to the case of mechan
 References 
 [1] di Prisco, C., Flessati, L., Frigerio, G., & Lunardi, P. (2018). A numerical exercise for the definition under undrained conditions of the deep tunnel front characteristic curve. Acta Geotechnica, 13, 635-649. 10.1007/s11440-017-0564-y
 [2] di Prisco, C., Flessati, L., & Porta, D. (2020). Deep tunnel fronts in cohesive soils under undrained conditions: a displacement-based approach for the design of fibreglass reinforcements. Acta geotechnica, 15, 1013-1030.
-[3] Flessati & di Prisco (2024). Mechanized deep tunnel excavation in saturated clayey soils: a pre-design hydro-mechanically coupled method for the assessment of both spoil and face volume loss Geotechnique, in press
+[3] Flessati & di Prisco (2024). Mechanized deep tunnel excavation in saturated clayey soils: a pre-design hydro-mechanically coupled method for the assessment of both spoil and face volume loss Geotechnique, in press https://doi.org/10.1680/jgeot.23.00294
